@@ -152,12 +152,12 @@ header .logo a {
 }
 
 .img_about img {
-  width: 210px;
+  width: 410px;
   height: auto;
   position: absolute;
-  left: 80%;
+  left: 90%;
   top: 27%;
-  transform: translateX(-80%);
+  transform: translateX(-100%);
 }
 
 .about .about-icons {
